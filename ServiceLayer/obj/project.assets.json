@@ -5746,11 +5746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\ServiceLayer\\ServiceLayer.csproj",
+      "projectPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\ServiceLayer\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\ServiceLayer\\obj\\",
+      "outputPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5767,11 +5767,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\CommonLayer\\CommonLayer.csproj": {
-              "projectPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\CommonLayer\\CommonLayer.csproj"
+            "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\CommonLayer\\CommonLayer.csproj": {
+              "projectPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\CommonLayer\\CommonLayer.csproj"
             },
-            "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\RespositoryLayer\\RespositoryLayer.csproj": {
-              "projectPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CrudOperationInEntityFramework\\RespositoryLayer\\RespositoryLayer.csproj"
+            "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\RespositoryLayer\\RespositoryLayer.csproj": {
+              "projectPath": "C:\\Users\\visha\\source\\repos\\.Net + Sql Server\\CRUDOperationInEntityFramework\\RespositoryLayer\\RespositoryLayer.csproj"
             }
           }
         }
