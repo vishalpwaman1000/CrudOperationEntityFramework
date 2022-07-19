@@ -1,0 +1,13 @@
+#Install Packages In API Project, CommonLayer, Repository Layer:
+
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer
+
+#Migration Command : 
+
+> Add-Migration
+
+#Update Database
+
+>Update-Datebase 
